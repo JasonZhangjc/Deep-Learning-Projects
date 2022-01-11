@@ -1,4 +1,4 @@
 # Deep-Learning-Projects
- Deep Learning Projects in Python
+ Deep Learning Projects in Python:
  
- <u>Gated-RNN for Sentiment Analysis</u>
+- The Jupyter Notebook:  [Gated-RNN for Sentiment Analysis.ipynb](Gated-RNN for Sentiment Analysis.ipynb) 
